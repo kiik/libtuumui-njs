@@ -5,7 +5,6 @@ const url = require('url');
 const websocket = require('websocket-stream');
 
 const help = require('./helpers');
-const mdl = require('../models');
 
 const sqlDateFormat = help.sqlDateFormat;
 const WSContextPass = help.WSContextPass;
