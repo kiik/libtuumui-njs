@@ -1,0 +1,19 @@
+{
+  "name": "libtuumui-njs",
+  "description": "Robotex team Tuum's UI core modules.",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-dot-engine": "^1.0.7",
+    "kafka-node": "^2.2.3",
+    "moment": "^2.18.1",
+    "node-minify": "^2.3.0",
+    "pg-copy-streams": "^1.2.0",
+    "pg-format": "^1.0.4",
+    "pg-promise": "^6.5.1",
+    "pg-query-builder": "^0.1.1",
+    "websocket-stream": "^5.0.1",
+    "ws": "^3.1.0"
+  }
+}
